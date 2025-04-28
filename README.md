@@ -1,5 +1,4 @@
-Sentiment Feedback Intelligence Agent - MVP Documentation
-
+Sentiment Feedback Intelligence Agent
 🧠 Overview
 
 The Sentiment Feedback Intelligence Agent is a Power Automate-based solution enhanced with Azure OpenAI to analyze customer sentiment from recent email conversations. This Minimum Viable Product (MVP) was built for a hackathon and integrates:
