@@ -169,9 +169,8 @@ Train model for domain-specific tone nuances
 
 👥 Contributors
 
-[Your Name Here]
-
-AI/Automation Engineer
+Amine Semouma
+Client Experience Manager
 
 Hackathon Submission, April 2025
 
