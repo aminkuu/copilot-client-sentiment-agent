@@ -156,16 +156,6 @@ Integrate with CRM (e.g. Dynamics, Salesforce)
 
 Train model for domain-specific tone nuances
 
-📁 Folder Structure (GitHub)
-
-📁 sentiment-agent-mvp
-├── README.md
-├── documentation.md <-- (this file)
-├── assets/
-│   └── screenshots.png
-├── flow-export.zip
-└── .env.example
-
 👥 Contributors
 
 Amine Semouma
